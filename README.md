@@ -158,9 +158,9 @@ https://ffdvinh09-info.vercel.app/player-info?region=SG&uid=338277714
 ### Clone the Repository  
 To clone the repository, run the following command:  
 ```bash  
-git clone https://github.com/duyvinh09/FreeFireInfoSite.git  
+git clone https://github.com/Nopermc11/botmessapi.git  
 ```  
 
 ### Deploy via Vercel  
 You can deploy the project using the link below:  
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/duyvinh09/FreeFireInfoSite)  
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Nopermc11/botmessapi)  
